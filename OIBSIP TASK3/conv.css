@@ -1,0 +1,46 @@
+.bg{
+    height: 100vh;
+    width: 100%;
+    background-image: url(23\,448\,300+\ Skies\ Stock\ Photos\,\ Pictures\ &\ Royalty-Free\ Images.jpeg);
+    background-position: center;
+    background-size: cover;
+    padding-right: 3%;
+    padding-left: 5%;
+    box-sizing: border-box;
+    position: relative;
+   /*background-image: url(23\,448\,300+\ Skies\ Stock\ Photos\,\ Pictures\ &\ Royalty-Free\ Images.jpeg);
+    background-color:  #ECF2FF;
+    color:rgb(43,42,42); */
+}
+.box{
+    max-width: 500px;
+    margin: 0 auto;
+    padding:50px;
+    text-align: center;
+    background-color:#ECF2FF;
+    border-radius: 10px;
+}
+h1{
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.converter{
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+label {
+	display: block;
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+input[type="number"] {
+	display: block;
+	width: 100%;
+	padding: 10px;
+	font-size: 20px;
+	border-radius: 5px;
+	border: none;
+	background-color: #ddd;
+}
